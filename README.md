@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Dashboard 1: Customer Analysis
+##  Dashboard 1: Customer Analysis
 
 - Revenue by Income Group  
   - High income group generates maximum revenue  
@@ -50,7 +50,7 @@
 
 ---
 
-## 📈 Dashboard 2: Transaction Analysis
+##  Dashboard 2: Transaction Analysis
 
 - Weekly Transaction Trend  
   - Identified fluctuations across months  
